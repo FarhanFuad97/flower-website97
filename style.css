@@ -51,6 +51,7 @@ font-family: 'Poppins', sans-serif;
 .fea-des{
     margin: 10px;
     font-size: 10px;
+   
     
 }
 .main-feature{
@@ -136,5 +137,26 @@ font-family: 'Poppins', sans-serif;
     padding: 20px;  
 }
 .icon{
+    padding: 20px;
+}
+/*----ad section style*/
+
+.ad-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#FDF6F8;
+}
+.ad-img{
+    padding: 100px;
+    margin: 25px;
+   
+}
+/*-----------banner section----------*/
+.banner-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
     padding: 20px;
 }
