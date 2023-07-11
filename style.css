@@ -60,6 +60,7 @@ font-family: 'Poppins', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
+    
    
 }
 .feature-pic{
@@ -70,6 +71,7 @@ font-family: 'Poppins', sans-serif;
     background-color:#F2DEE8;
     border-top-left-radius:150px;
     border-start-end-radius:150px;
+    
 }
 .feature-pic2{
     width:300px;
@@ -92,7 +94,6 @@ font-family: 'Poppins', sans-serif;
 .fea-img{
     width:200px;
     padding-top: 50px;
-   margin-bottom: 0px;
 }
 .fea-img2{
     width:250px;
@@ -163,7 +164,7 @@ font-family: 'Poppins', sans-serif;
     padding: 20px;
 }
 .banner-section{
-    background-image:url('../images/picback.png');
+    background-image:url('./images/picback.png');
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
